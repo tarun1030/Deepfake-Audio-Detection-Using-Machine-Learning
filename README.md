@@ -7,12 +7,6 @@ A project focused on detecting deepfake audio using both traditional machine lea
 ## 📚 Table of Contents
 - [🚀 Project Overview](#-project-overview)
 - [🧠 Models Used](#-models-used)
-- [📁 Project Structure](#-project-structure)
-- [🔧 Installation](#-installation)
-- [⚙️ Usage](#️-usage)
-- [📊 Results](#-results)
-- [📝 License](#-license)
-- [🙏 Acknowledgements](#-acknowledgements)
 
 ---
 
@@ -40,4 +34,3 @@ This repository contains an **Audio Deepfake Detection** system trained to disti
 
 ---
 
-## 📁 Project Structure
